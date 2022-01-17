@@ -13,3 +13,9 @@
 |7  |'21.11.29 |Introduction to reinforcement learning |영현
 |   |          |Kaggling: at a first glance   |경진
 |8  |'21.12.6  | -- continuing from the last talk ("Imagenet classification with ...") |석영
+|9  |'21.12.13 |Kaggling: Titanic problem (1) |경진
+|10 |'21.12.20 |Reinforcement learning (1)    |영현
+|11 |'21. 1. 3 |Kaggling: Titanic problem (2) |경진
+|   |          |Feature engineering in "Titanic"|석영
+|12 |'21. 1.17 |CART and Random forest (1)    |석영
+|   |          |Reinforcement learning (2)    |영현
