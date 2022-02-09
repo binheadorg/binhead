@@ -17,5 +17,7 @@
 |10 |'21.12.20 |Reinforcement learning (1)    |영현
 |11 |'21. 1. 3 |Kaggling: Titanic problem (2) |경진
 |   |          |Feature engineering in "Titanic"|석영
-|12 |'21. 1.17 |CART and Random forest (1)    |석영
-|   |          |Reinforcement learning (2)    |영현
+|12 |'21. 1.17 |Reinforcement learning (2)    |영현
+|13 |'21. 1.25 |CART and Random forest        |석영
+|   |          |Kaggle: Predict Future Sales  |경진
+|14 |'21. 2. 9 |Reinforcement learning (3): Solving the Bellmann equation (prediction & control) - dynamic programming |영현
