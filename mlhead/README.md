@@ -21,3 +21,4 @@
 |13 |'21. 1.25 |CART and Random forest        |석영|[CART](http://www.math.snu.ac.kr/~hichoi/machinelearning/lecturenotes/CART.pdf), [RF](http://www.math.snu.ac.kr/~hichoi/machinelearning/lecturenotes/RandomForests.pdf)
 |   |          |Kaggle: Predict Future Sales  |경진|[Prediction](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 |14 |'21. 2. 9 |Reinforcement learning (3): Solving the Bellmann equation (prediction & control) - dynamic programming |영현| [Lecture 3](https://www.davidsilver.uk/wp-content/uploads/2020/03/DP.pdf)
+|15 |'21. 2. 16 |NLP (1): Sentiment analysis, Word embeddings, Machine translation w/ LSH |석영| [Coursera NLP#1](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
